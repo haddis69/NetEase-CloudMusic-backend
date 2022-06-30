@@ -4,3 +4,7 @@
 - 感谢服务器开源项目提供者：https://binaryify.github.io/NeteaseCloudMusicApi/#/
 ## 2. 接口文档
 - 具体的接口文档在项目资源的接口文档中
+## 3.前台地址
+- https://github.com/haddis69/NetEase-CloudMusic
+## 4.使用说明
+- 下载仓库代码到本地，安装nodemon成功后执行npm start
